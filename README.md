@@ -26,7 +26,7 @@
 - [工厂模式（Factory Pattern）](https://github.com/zijol/design_pattern/blob/master/creation_patterns/FactoryPattern.php)
 - [抽象工厂模式（Abstract Factory Pattern](https://github.com/zijol/design_pattern/blob/master/creation_patterns/AbstractFactoryPattern.php)
 - [单例模式（Singleton Pattern）](https://github.com/zijol/design_pattern/blob/master/creation_patterns/SinglePattern.php)
-- 建造者模式（Builder Pattern）
+- [建造者模式（Builder Pattern）](- [单例模式（Singleton Pattern）](https://github.com/zijol/design_pattern/blob/master/creation_patterns/BuilderPattern.php)
 - 原型模式（Prototype Pattern）
 
 #### [结构型模式](https://github.com/zijol/design_pattern/blob/master/structural_patterns)
