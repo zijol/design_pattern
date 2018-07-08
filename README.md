@@ -20,16 +20,16 @@
 ### 设计模式的类型
 &emsp;&emsp;根据设计模式的参考书 Design Patterns - Elements of Reusable Object-Oriented Software（中文译名：设计模式 - 可复用的面向对象软件元素） 中所提到的，总共有 23 种设计模式。这些模式可以分为三大类：创建型模式（Creational Patterns）、结构型模式（Structural Patterns）、行为型模式（Behavioral Patterns）。当然，我们还会讨论另一类设计模式：J2EE 设计模式。
 
-#### 创建型模式
+#### [创建型模式](https://github.com/zijol/design_pattern/tree/master/creation_patterns)
 &emsp;&emsp;这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
 
-- 工厂模式（Factory Pattern）
-- 抽象工厂模式（Abstract Factory Pattern
-- 单例模式（Singleton Pattern）
+- [工厂模式（Factory Pattern）](https://github.com/zijol/design_pattern/blob/master/creation_patterns/FactoryPattern.php)
+- [抽象工厂模式（Abstract Factory Pattern](https://github.com/zijol/design_pattern/blob/master/creation_patterns/AbstractFactoryPattern.php)
+- [单例模式（Singleton Pattern）](https://github.com/zijol/design_pattern/blob/master/creation_patterns/SinglePattern.php)
 - 建造者模式（Builder Pattern）
 - 原型模式（Prototype Pattern）
 
-#### 结构型模式
+#### [结构型模式](https://github.com/zijol/design_pattern/blob/master/structural_patterns)
 &emsp;&emsp;这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 
 - 适配器模式（Adapter Pattern）
@@ -41,7 +41,7 @@
 - 享元模式（Flyweight Pattern）
 - 代理模式（Proxy Pattern）
 
-#### 行为型模式
+#### [行为型模式](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns)
 &emsp;&emsp;这些设计模式特别关注对象之间的通信。
 
 - 责任链模式（Chain of Responsibility Pattern）
@@ -50,14 +50,14 @@
 - 迭代器模式（Iterator Pattern）
 - 中介者模式（Mediator Pattern）
 - 备忘录模式（Memento Pattern）
-- 观察者模式（Observer Pattern）
+- [观察者模式（Observer Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/ObserverPattern.php)
 - 状态模式（State Pattern）
 - 空对象模式（Null Object Pattern）
 - 策略模式（Strategy Pattern
 - 模板模式（Template Pattern）
 - 访问者模式（Visitor Pattern）
 
-#### J2EE 模式
+#### [J2EE 模式](https://github.com/zijol/design_pattern/blob/master/j2ee_patterns)
 &emsp;&emsp;这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的
 
 - MVC 模式（MVC Pattern）
