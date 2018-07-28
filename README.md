@@ -32,14 +32,14 @@
 #### [结构型模式](https://github.com/zijol/design_pattern/blob/master/structural_patterns)
 &emsp;&emsp;这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 
-- 适配器模式（Adapter Pattern）
-- 桥接模式（Bridge Pattern）
-- 过滤器模式（Filter、Criteria Pattern）
-- 组合模式（Composite Pattern）
-- 装饰器模式（Decorator Pattern）
-- 外观模式（Facade Pattern）
-- 享元模式（Flyweight Pattern）
-- 代理模式（Proxy Pattern）
+- [适配器模式（Adapter Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/AdapterPattern.php)
+- [桥接模式（Bridge Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/BridgePattern.php)
+- [过滤器模式（Filter、Criteria Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/FilterPattern.php)
+- [组合模式（Composite Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/CompositePattern.php)
+- [装饰器模式（Decorator Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/DecoratorPattern.php)
+- [外观模式（Facade Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/FacadePattern.php)
+- [享元模式（Flyweight Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/FlyweightPattern.php)
+- [代理模式（Proxy Pattern）](https://github.com/zijol/design_pattern/blob/master/structural_patterns/ProxyPattern.php)
 
 #### [行为型模式](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns)
 &emsp;&emsp;这些设计模式特别关注对象之间的通信。
