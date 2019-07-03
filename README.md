@@ -44,8 +44,8 @@
 #### [行为型模式](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns)
 &emsp;&emsp;这些设计模式特别关注对象之间的通信。
 
-- 责任链模式（Chain of Responsibility Pattern）
-- 命令模式（Command Pattern）
+- [责任链模式（Chain of Responsibility Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/chain_of_responsibility_pattern/ChainOfResponsibilityPattern.php)
+- [命令模式（Command Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/command_pattern/CommandPattern.php)
 - 解释器模式（Interpreter Pattern）
 - 迭代器模式（Iterator Pattern）
 - [中介者模式（Mediator Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/mediator_pattern/MediatorPattern.php)
