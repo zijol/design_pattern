@@ -6,7 +6,7 @@
 &emsp;&emsp;在 1994 年，由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 四人合著出版了一本名为 Design Patterns - Elements of Reusable Object-Oriented Software（中文译名：设计模式 - 可复用的面向对象软件元素） 的书，该书首次提到了软件开发中设计模式的概念。  
 &emsp;&emsp;四位作者合称 GOF（四人帮，全拼 Gang of Four）。他们所提出的设计模式主要是基于以下的面向对象设计原则: 
 1. 对接口编程而不是对实现编程。 
-2. 2.优先使用对象组合而不是继承。
+2. 优先使用对象组合而不是继承。
 
 ### 设计模式的使用
 &emsp;&emsp;设计模式在软件开发中的两个主要用途。
@@ -47,7 +47,7 @@
 - [责任链模式（Chain of Responsibility Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/chain_of_responsibility_pattern/ChainOfResponsibilityPattern.php)
 - [命令模式（Command Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/command_pattern/CommandPattern.php)
 - 解释器模式（Interpreter Pattern）
-- 迭代器模式（Iterator Pattern）
+- [迭代器模式（Iterator Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/iterator_pattern/IteratorPattern.php)
 - [中介者模式（Mediator Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/mediator_pattern/MediatorPattern.php)
 - 备忘录模式（Memento Pattern）
 - [观察者模式（Observer Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/observer_pattern/ObserverPattern.php)
