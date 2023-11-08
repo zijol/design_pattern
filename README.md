@@ -64,7 +64,7 @@ Patterns）。当然，我们还会讨论另一类设计模式：J2EE 设计模�
 - [解释器模式（Interpreter Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/interpreter_pattern/InterpreterPattern.php)
 - [迭代器模式（Iterator Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/iterator_pattern/IteratorPattern.php)
 - [中介者模式（Mediator Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/mediator_pattern/MediatorPattern.php)
-- 备忘录模式（Memento Pattern）
+- [备忘录模式（Memento Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/memento_pattern/MementoPattern.php)
 - [观察者模式（Observer Pattern）](https://github.com/zijol/design_pattern/blob/master/behavioral_patterns/observer_pattern/ObserverPattern.php)
 - 状态模式（State Pattern）
 - 空对象模式（Null Object Pattern）
